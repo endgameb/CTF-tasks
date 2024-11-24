@@ -1,0 +1,8 @@
+смотрим комиты спомощю команды git log
+git log
+commit e65fedb3a72a16c577f4b17023b63997134b307d (HEAD -> master)
+Author: picoCTF <ops@picoctf.com>
+Date:   Tue Mar 12 00:07:29 2024 +0000
+
+    picoCTF{t1m3m@ch1n3_88c35e3b}
+

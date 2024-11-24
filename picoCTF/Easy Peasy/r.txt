@@ -1,0 +1,6 @@
+encoded input: b'2366101d3922231d3979201d3923751d3971751d3927791d3971713a1d392525'
+unhexed input: b'#f\x10\x1d9"#\x1d9y \x1d9#u\x1d9qu\x1d9\'y\x1d9qq:\x1d9%%'
+[+] Found key: [98, 39, 81, 92, 120, 99, 98, 92, 120, 56, 97, 92, 120, 98, 52, 92, 120, 48, 52, 92, 120, 102, 56, 92, 120, 48, 48, 123, 92, 120, 100, 100]
+flag: picoCTF{abf2f7d5edf082028076bfd7a4cfe9a9}
+[*] Closed connection to mercury.picoctf.net port 41934
+
